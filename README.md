@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MK-5-CYB
 - 👀 I’m interested in Cybersecurity, pentesting, networking, and programing.
-- 🌱 I’m currently learning CCybersecurity in college.
+- 🌱 I’m currently learning Cybersecurity in college.
 - 💞️ I’m looking to collaborate on projects that help lrearn kali linux and its tools.
 - 📫 You can reach me on my socials: linktr.ee
 
