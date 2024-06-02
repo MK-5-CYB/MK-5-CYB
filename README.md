@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Malek Kanzoua
 - 👀 I’m interested in Cybersecurity, Network Security, Pentesting, Hardware Hacking, and CTFs.
 - 🌱 I’m currently studying Cybersecurity in IMSIU University.
-- 💞️ I’m looking to collaborate on projects that help learn Automation programming.
+- 💞️ I’m looking to collaborate on projects that helps me learn Automation programming.
 - 📫 You can reach me on my socials: [linktr.ee](https://linktr.ee/malek.kanzoua)
 
 <!---
